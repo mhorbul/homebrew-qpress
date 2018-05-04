@@ -1,4 +1,4 @@
-class QPress < Formula
+class Qpress < Formula
   desc "Portable high-speed file archiver"
   homepage "https://github.com/PierreLvx/qpress"
   url "https://github.com/PierreLvx/qpress/releases/download/20170415/qpress.tar.gz"
