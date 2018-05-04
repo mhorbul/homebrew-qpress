@@ -6,7 +6,6 @@ class Qpress < Formula
   version "20170415"
 
   def install
-    system "make g++"
     bin.install "qpress"
   end
 end
